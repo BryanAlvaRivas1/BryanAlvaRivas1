@@ -4,8 +4,13 @@
 
 - [Active Directory Home Labs](https://github.com/BryanAlvaRivas1/ActiveDirectoryLab/blob/main/README.md)
 - [Hello World]()
-
   
+<h2> Cybersecurity security audits: </h2>
+
+-[Controls and Compliance checklist](https://docs.google.com/document/d/1tYIM58gG883GMXFoDzwzVOd_0dCAOgP97r6qNAdpxvY/edit?tab=t.0)
+
+-[Botium Toys: Scope, goals, and risk assessment report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)
+
 <h2> Cerifications</h2>
 
 <h2>📺 Popular YouTube Videos</h2>
